@@ -1,0 +1,18 @@
+# 🎖 Honors and Awards
+- *2025.07* Google Analytics Certification
+- *2025.06* ICASIS 2025 Best Paper Award, Winner
+- *2025.06* ICASIS 2025 Participation of Oral Presentation, Winner
+- *2025.05* XJTLU Electronic Transition Self-discipline Challenge, Winner
+- *2025.03* XJTLU Alumni Ambassador
+- *2024.11* XJTLU Outstanding Student
+- *2024.09* Summer Undergraduate Research Fellowship, Winner
+- *2024.08* University Academic Achievement Award 
+- *2023.12* XJTLU Outstanding Student
+- *2023.09* Summer Undergraduate Research Fellowship, Winner
+- *2023.08* University Academic Excellence Award 
+- *2023.05* Mathematical Contest in Modeling, Honorable Mention
+- *2023.06* National Professional Software Engineering "Lanqiao Cup" Design Contest, Third Prize 
+- *2023.04* National Professional Software Engineering "Lanqiao Cup" Design Contest, First Prize
+- *2022.11* China Undergraduate Mathematical Contest in Modeling, Third Prize
+- *2022.09* Outstanding Participation in "GaoKao Consultation Fair"
+- *2021.12* Leadership Training Program, Third Prize 
