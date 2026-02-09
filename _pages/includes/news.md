@@ -1,4 +1,4 @@
-<div style="height: 300px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
+<div style="height: 30px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
 
 # 🔥 News
 - *2026.01**: 🎉 Our paper "DSR-REC: Enhancing Generative Recommendation Through Dynamic Expert Selection and Semantic ID Redirection" has been accepted at ICASSP
