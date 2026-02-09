@@ -1,7 +1,4 @@
-<div style="
-    height: clamp(300px, 30vh, 500px);
-    overflow-y: auto;
-">
+
 
 # 🔥 News
 - *2026.01**: 🎉 Our paper "DSR-REC: Enhancing Generative Recommendation Through Dynamic Expert Selection and Semantic ID Redirection" has been accepted at ICASSP
@@ -13,6 +10,6 @@
 - *2025.01*: 🎉 Admitted to the Oxford Internet Institute
 - *2024.11*: [Honored as Outstanding Student](https://mp.weixin.qq.com/s/2WwwNlMdMh7XNFIfO1oieA), Featured by School
 
-</div>
+
 
 
