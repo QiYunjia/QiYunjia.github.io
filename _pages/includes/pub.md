@@ -9,7 +9,7 @@
 - **Yunjia Qi†**, Xiaoxiao Wang†, Yichen Cui, Kaixi Liu, Luhua Chen, Xiaoyang Guo, Zhengqian Li, Sichen Liu, "AnesNet: A Versatile Deep Convolutional Framework for Predicting Depth of Anesthesia Using BIS and Multimodal Intraoperative Signals"[J], BMC Anesthesiology, Accepted.
 
 ## Conference
-- ``ICASSP`` Hailong Luo, **Yunjia Qi**, Hongyong Jia, Wei Zhao, "DSR-REC: Enhancing Generative Recommendation Through Dynamic Expert Selection and Semantic ID Redirection," in Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),2026.
+- ``ICASSP`` Hailong Luo, **Yunjia Qi**, Hongyong Jia, Wei Zhao, "DSR-REC: Enhancing Generative Recommendation Through Dynamic Expert Selection and Semantic ID Redirection," in Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),2026, Accepted.
 - ``ICASIS`` **Yunjia Qi**, Ruiyang Wu, Jiayi Wang, Mengyuan Wang, Sichen Liu, "Joint Caliber and Transient Acoustic Signals Classification with Wavelet Domain Analysis," in Proc. International Conference on Advanced Sensing and Intelligent Systems (ICASIS), Jun. 13–15, 2025.
 - ``ACDSA`` Jiayi Song,**Yunjia Qi**, Yichen Cui, Xiaoxiao Wang, Lingshan Zhang, Sichen Liu, "A Two-Stage Framework with Ordinal Constraints for Age Estimation from Retinal Fundus Images," in Proceedings of the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), Antalya, Türkiye, Aug. 7-9, 2025
 - ``ICASIS`` Yutong Hu,**Yunjia Qi**, Langran Yuan, Yushen Wu, Sichen Liu, "Multimodal Physiological Signal Fusion with TS-CNN for Early Prediction of 
