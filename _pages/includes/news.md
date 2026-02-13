@@ -1,8 +1,8 @@
 
 
 # 🔥 News
-- *2026.02**: 🎉 Our paper "AnesNet: A Versatile Deep Convolutional Framework for Predicting Depth of Anesthesia Using BIS and Multimodal Intraoperative Signals" has been accepted at BMC Anesthesiology (JCR Q2)
-- *2026.01**: 🎉 Our paper "DSR-REC: Enhancing Generative Recommendation Through Dynamic Expert Selection and Semantic ID Redirection" has been accepted at ICASSP (CCF B)
+- *2026.02*: 🎉 Our paper "AnesNet: A Versatile Deep Convolutional Framework for Predicting Depth of Anesthesia Using BIS and Multimodal Intraoperative Signals" has been accepted at BMC Anesthesiology (JCR Q2)
+- *2026.01*: 🎉 Our paper "DSR-REC: Enhancing Generative Recommendation Through Dynamic Expert Selection and Semantic ID Redirection" has been accepted at ICASSP (CCF B)
 - *2025.06*: 🎉 Our paper "A Two-Stage Framework with Ordinal Constraints for Age Estimation from Retinal Fundus Images" at the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications
 - *2025.06*: 🎉 Our paper "Wavelet Convolution: An Urban Sound Source Recognition Method" was awarded the **Best Paper** at the International Conference on Advanced Sensing and Intelligent Systems
 - *2025.06*: 🎉 Our paper "Joint caliber and transient acoustic signals classification with wavelet domain analysis" has been accepted at the International Conference on Advanced Sensing and Intelligent Systems
