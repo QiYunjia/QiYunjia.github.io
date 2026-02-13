@@ -5,9 +5,9 @@
 
 <!--
 - **Yunjia Qi**, Feiran Yang, Tonghui Wu, Sichen Liu, Phase Correction: Strucurally Guided Phase Modeling For Speech Enhancement[J], IEEE Signal Processing Letters
-
-- Xiaoxiao Wang†, **Yunjia Qi†(Co-First Author)**, Zhengqian Li, Sichen Liu, Co-first author，A Convolutional Neural Network Model to Predict Deep Hypnotic Events from Bispectral Index Values[J], Anesthesia & Analgesia
 -->
+- **Yunjia Qi†**, Xiaoxiao Wang†, Yichen Cui, Kaixi Liu, Luhua Chen, Xiaoyang Guo, Zhengqian Li, Sichen Liu, "AnesNet: A Versatile Deep Convolutional Framework for Predicting Depth of Anesthesia Using BIS and Multimodal Intraoperative Signals"[J], BMC Anesthesiology, Accepted.
+
 ## Conference
 - ``ICASSP`` Hailong Luo, **Yunjia Qi**, Hongyong Jia, Wei Zhao, "DSR-REC: Enhancing Generative Recommendation Through Dynamic Expert Selection and Semantic ID Redirection," in Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),2026.
 - ``ICASIS`` **Yunjia Qi**, Ruiyang Wu, Jiayi Wang, Mengyuan Wang, Sichen Liu, "Joint Caliber and Transient Acoustic Signals Classification with Wavelet Domain Analysis," in Proc. International Conference on Advanced Sensing and Intelligent Systems (ICASIS), Jun. 13–15, 2025.
