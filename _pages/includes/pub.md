@@ -3,10 +3,9 @@
 
 ## Journal
 
-<!--
-- **Yunjia Qi**, Feiran Yang, Tonghui Wu, Sichen Liu, Phase Correction: Strucurally Guided Phase Modeling For Speech Enhancement[J], IEEE Signal Processing Letters
--->
+
 - ``BMC Anesthesiology`` **Yunjia Qi†**, Xiaoxiao Wang†, Yichen Cui, Kaixi Liu, Luhua Chen, Xiaoyang Guo, Zhengqian Li, Sichen Liu, "AnesNet: A Versatile Deep Convolutional Framework for Predicting Depth of Anesthesia Using BIS and Multimodal Intraoperative Signals"[J], BMC Anesthesiology, Accepted.
+- ``Network New Media Technology`` Yichen Cui, Jiayi Song, **Yunjia Qi**, Sichen Liu, Xiaoxiao Wang, “A Dual-Branch Multi-Modal Fusion Network for Retinal Age Prediction with Ordinal Ranking Loss”[J], Network New Media Technology, Accepted.
 
 ## Conference
 - ``ICASSP`` Hailong Luo, **Yunjia Qi**, Hongyong Jia, Wei Zhao, "DSR-REC: Enhancing Generative Recommendation Through Dynamic Expert Selection and Semantic ID Redirection," in Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),2026, Accepted.
