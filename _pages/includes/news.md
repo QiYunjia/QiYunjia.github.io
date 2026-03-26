@@ -1,6 +1,7 @@
 
 
 # 🔥 News
+- *2026.03*: 🎉 Our paper "A Dual-Branch Multi-Modal Fusion Network for Retinal Age Prediction with Ordinal Ranking Loss" has been accepted at Network New Media Technology
 - *2026.02*: 🎉 Our paper "AnesNet: A Versatile Deep Convolutional Framework for Predicting Depth of Anesthesia Using BIS and Multimodal Intraoperative Signals" has been accepted at BMC Anesthesiology (JCR Q2)
 - *2026.01*: 🎉 Our paper "DSR-REC: Enhancing Generative Recommendation Through Dynamic Expert Selection and Semantic ID Redirection" has been accepted at ICASSP (CCF B)
 - *2025.06*: 🎉 Our paper "A Two-Stage Framework with Ordinal Constraints for Age Estimation from Retinal Fundus Images" at the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications
