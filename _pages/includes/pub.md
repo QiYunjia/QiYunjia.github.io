@@ -20,6 +20,7 @@ Intraoperative Hypotension," in Proc. International Conference on Advanced Sensi
 
 ## Patent
 - Tianfang Qin, **Yunjia Qi**, Qifeng Hann, Sichen Liu, "Detection and Classification System for Abnormal Sounds in Substations Based on Convolutional Neural Networks and Data Augmentation Methods" CN Patent 202411406788.6
+- Sichen Liu, **Yunjia Qi**, "Firecracker Detection, A Method for Training a Firecracker Detection Model, An Apparatus, A Device, And A Storage Medium" CN Patent 202511929524.3
 
 ## Copyright
 - **Yunjia Qi**, Qifeng Han, and Tianfang Qin, "All-in-One Fitness Management System," software, CN Copyright 2024R11L2043109.
