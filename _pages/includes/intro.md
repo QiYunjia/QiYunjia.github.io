@@ -2,7 +2,7 @@ Hi, I'm Yunjia Qi！
 
 I am now working on speech enhancement, sound generation and AI in healthcare research. If you are seeking any form of **academic cooperation**, please feel free to email me at [Yunjia.Qi@stcatz.ox.ac.uk](mailto:Yunjia.Qi@stcatz.ox.ac.uk).
 
-I graduated from [School of Advanced Technology](https://www.xjtlu.edu.cn/en/study/departments/school-of-advanced-technology/), Xi'an Jiaotong Liverpool University with a bachelor's degree and will be pursuing my master's degree at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/), University of Oxford.
+I graduated from [School of Advanced Technology](https://www.xjtlu.edu.cn/en/study/departments/school-of-advanced-technology/), Xi'an Jiaotong Liverpool University with a bachelor's degree and I am currently pursuing my master’s degree at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/), University of Oxford.
 
 
 <!-- 
