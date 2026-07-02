@@ -10,7 +10,7 @@
 - *2022.12 - 2023.01*, Pipe China.
 - *2022.06 - 2022.09*, Guangzhou Huazi Software Technology.
 
-
+<!-- 
 # 💬 Projects
 ## Sound Synthesis
 - [Foley Sound Synthesis]
@@ -30,7 +30,7 @@
  - [Rouge Game]()
 
 
-<!-- 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OpenGL</div><img src='projectFig/fig3.png' alt="sym" width="20%"></div></div>
 <div class='paper-box-text' markdown="1">
 [2D Ivitation Card](https://github.com/QiYunjia/OPENGL-Invitation-Card-For-The-Graduation-Ceremony) \\
